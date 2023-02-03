@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/platform/GitBucket/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/platform/GitBucket/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/platform/GitBucket/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/platform/excalidraw/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/platform/excalidraw/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/platform/excalidraw/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/platform/overleaf/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/platform/overleaf/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/platform/overleaf/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/plugins/android/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/plugins/android/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/plugins/android/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/plugins/browser/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/plugins/browser/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/plugins/browser/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/software/gdbdashboard/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/software/gdbdashboard/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/software/gdbdashboard/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/software/mathpix/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/software/mathpix/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/software/mathpix/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/software/texmacs/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/software/texmacs/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/software/texmacs/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/specification/specification/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/specification/specification/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/specification/specification/"/>
+         
+    </url>
+    <url>
+         <loc>https://github.com/cargo-youth/ToolDiy/specification/template/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/cargo-youth/ToolDiy/zh/specification/template/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://github.com/cargo-youth/ToolDiy/en/specification/template/"/>
+         
+    </url>
+</urlset>
